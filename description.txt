@@ -1,0 +1,1 @@
+This project is used to read the data from the Vessel Data Recorder and show in a graphical dashboard format
